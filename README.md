@@ -30,24 +30,8 @@ Modular Code: The code is modular with each operation (insertion, deletion, trav
 Requirements
 C Compiler: A C compiler such as GCC to compile the source code.
 Operating System: Any OS that supports C programming (Linux, Windows, macOS).
-Installation
-Step 1: Clone the repository
-bash
-Copy
-git clone https://github.com/your-username/singly-linked-list-c.git
-cd singly-linked-list-c
-Step 2: Compile the program
-You can compile the C program using the gcc compiler:
 
-bash
-Copy
-gcc -o linked_list linked_list.c
-Step 3: Run the program
-Execute the compiled program:
 
-bash
-Copy
-./linked_list
 Usage
 This program allows you to perform the following linked list operations:
 
