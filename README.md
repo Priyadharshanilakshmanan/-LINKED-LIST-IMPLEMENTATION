@@ -127,5 +127,6 @@ Replace your-username in the GitHub clone URL with your actual GitHub username.
 If you plan on adding a LICENSE file, you can include it in the repository and mention its type (like MIT License) in the description.
 You can customize the Acknowledgements section based on contributions or learning resources.
 
-
+*OUTPU*:
+<!-- Uploading "Screenshot 2025-03-10 104054.png"... -->
 
